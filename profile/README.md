@@ -82,7 +82,7 @@ Gatehouse Labs is built and maintained by Alan Wodarski, a Cyber Security Leader
 what AI-assisted development can do across the security and network lifecycle —
 architecture, engineering, and operations.
 
-[LinkedIn](https://www.linkedin.com/in/alan-wodarski/) · [alanw@gatehouse-labs.com](mailto:alanw@gatehouse-labs.com)
+[LinkedIn](https://www.linkedin.com/in/alan-wodarski/)
 
 <br/>
 
