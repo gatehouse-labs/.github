@@ -51,13 +51,13 @@ review and design. More repos will land here as the lab grows.
 
 ## Built with Claude
 
-Every repo here is designed and built in collaboration with Claude (Anthropic's AI),
-using [Claude Code](https://claude.com/claude-code) for agentic development — planning
-changes, writing and reviewing code, and iterating against real Fortinet APIs — and
-[MCP](https://modelcontextprotocol.io) to connect Claude directly to those APIs and to
-FortiManager/FortiAnalyzer data. 4tAnalyst and 4tHealth+ go a step further and use an
-LLM at runtime, via MCP, to review and draft firewall rule changes before a human ever
-sees them.
+Every repo here is designed and built using Claude, Anthropic's AI, as a development
+partner — via [Claude Code](https://claude.com/claude-code) for agentic development —
+planning changes, writing and reviewing code, and iterating against real Fortinet APIs
+— and [MCP](https://modelcontextprotocol.io) to connect Claude directly to those APIs
+and to FortiManager/FortiAnalyzer data. 4tAnalyst and 4tHealth+ go a step further and
+use an LLM at runtime, via MCP, to review and draft firewall rule changes before a
+human ever sees them.
 
 This is also a proving ground for going deeper with Anthropic's tools and, over time,
 for pursuing Anthropic certifications as they become available.
