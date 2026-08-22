@@ -76,6 +76,16 @@ for the other two.
 
 <br/>
 
+## About the builder
+
+Gatehouse Labs is built and maintained by Alan Wodarski, a Cyber Security Leader exploring
+what AI-assisted development can do across the security and network lifecycle —
+architecture, engineering, and operations.
+
+[LinkedIn](https://www.linkedin.com/in/alan-wodarski/) · [alanw@gatehouse-labs.com](mailto:alanw@gatehouse-labs.com)
+
+<br/>
+
 <div align="center">
 <sub>A personal portfolio project — not affiliated with or endorsed by Fortinet or Anthropic.</sub>
 </div>
