@@ -2,15 +2,19 @@
 
 <img src="assets/logos/gatehouse-labs-logo.svg" width="280" alt="Gatehouse Labs" />
 
-<sub>A portfolio of firewall-engineering tools built on Fortinet FortiManager / FortiAnalyzer</sub>
+<sub>A personal lab for AI-assisted software, built with Claude</sub>
 
 </div>
 
 <br/>
 
-Gatehouse Labs isn't a company — it's a name for a set of tools built to explore what
-AI-assisted workflows look like for firewall engineers: dashboards, reporting, and
-AI-driven rule review and design, all working against FortiManager/FortiAnalyzer.
+Gatehouse Labs is where I build tools with Claude and figure out what AI-assisted
+development actually looks like in practice — not just prompting for snippets, but
+using Claude Code and MCP to design, build, and review working software end to end.
+
+The flagship project right now is a suite of firewall-engineering tools built on
+Fortinet FortiManager / FortiAnalyzer: dashboards, reporting, and AI-driven rule
+review and design. More repos will land here as the lab grows.
 
 <br/>
 
@@ -45,7 +49,20 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 
 <br/>
 
-## About the suite
+## Built with Claude
+
+Every repo here is designed and built in collaboration with Claude (Anthropic's AI),
+using [Claude Code](https://claude.com/claude-code) for agentic development — planning
+changes, writing and reviewing code, and iterating against real Fortinet APIs — and
+[MCP](https://modelcontextprotocol.io) to connect Claude directly to those APIs and to
+FortiManager/FortiAnalyzer data. 4tAnalyst and 4tHealth+ go a step further and use an
+LLM at runtime, via MCP, to review and draft firewall rule changes before a human ever
+sees them.
+
+This is also a proving ground for going deeper with Anthropic's tools and, over time,
+for pursuing Anthropic certifications as they become available.
+
+## The Fortinet suite
 
 | | |
 |---|---|
@@ -57,14 +74,8 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 All four run independently — 4tHealth+ is a newer, more capable sibling, not a replacement
 for the other two.
 
-## Stack notes
-
-Built around the Fortinet FortiManager / FortiAnalyzer API, with 4tAnalyst and 4tHealth+
-using an LLM via MCP to review and draft rule changes before they ever reach a human
-reviewer.
-
 <br/>
 
 <div align="center">
-<sub>This is a personal portfolio project — not affiliated with or endorsed by Fortinet.</sub>
+<sub>A personal portfolio project — not affiliated with or endorsed by Fortinet or Anthropic.</sub>
 </div>
