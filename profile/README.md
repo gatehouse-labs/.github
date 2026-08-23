@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="assets/logos/gatehouse-labs-logo.svg" width="280" alt="Gatehouse Labs" />
+<img src="assets/logos/gatecrest-labs-logo.svg" width="280" alt="Gatecrest Labs" />
 
-<sub>A personal lab for AI-assisted software, built with Claude</sub>
+<sub>A portfolio of firewall-engineering tools built on Fortinet FortiManager / FortiAnalyzer</sub>
 
 </div>
 
 <br/>
 
-Gatehouse Labs is where I build tools with Claude and figure out what AI-assisted
-development actually looks like in practice — not just prompting for snippets, but
-using Claude Code and MCP to design, build, and review working software end to end.
-
-The flagship project right now is a suite of firewall-engineering tools built on
-Fortinet FortiManager / FortiAnalyzer: dashboards, reporting, and AI-driven rule
-review and design. More repos will land here as the lab grows.
+Gatecrest Labs isn't a company — it's a name for a set of tools built to explore what
+AI-assisted workflows look like for firewall engineers: dashboards, reporting, and
+AI-driven rule review and design, all working against FortiManager/FortiAnalyzer.
 
 <br/>
 
@@ -24,45 +20,32 @@ review and design. More repos will land here as the lab grows.
 <img src="assets/logos/4thealth-mark.svg" width="72" /><br/>
 <b>4tHealth</b><br/>
 <sub>Fabric health dashboard</sub><br/><br/>
-<a href="https://github.com/gatehouse-labs/4thealth">View repo →</a>
+<a href="https://github.com/gatecrest-labs/4thealth">View repo →</a>
 </td>
 <td align="center" width="25%">
 <img src="assets/logos/4tlog-mark.svg" width="72" /><br/>
 <b>4tLog</b><br/>
 <sub>Pulling log files from FortiAnalyzer</sub><br/><br/>
-<a href="https://github.com/gatehouse-labs/4tLog">View repo →</a>
+<a href="https://github.com/gatecrest-labs/4tLog">View repo →</a>
 </td>
 <td align="center" width="25%">
 <img src="assets/logos/4tanalyst-mark.svg" width="72" /><br/>
 <b>4tAnalyst</b><br/>
 <sub>AI-assisted rule request review</sub><br/><br/>
-<a href="https://github.com/gatehouse-labs/4tAnalyst">View repo →</a>
+<a href="https://github.com/gatecrest-labs/4tAnalyst">View repo →</a>
 </td>
 <td align="center" width="25%">
 <img src="assets/logos/4thealthplus-mark.svg" width="72" /><br/>
 <b>4tHealth+</b><br/>
 <sub>Health + policy hygiene + AI rule design</sub><br/><br/>
-<a href="https://github.com/gatehouse-labs/4thealth-plus">View repo →</a>
+<a href="https://github.com/gatecrest-labs/4thealth-plus">View repo →</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## Built with Claude
-
-Every repo here is designed and built using Claude, Anthropic's AI, as a development
-partner — via [Claude Code](https://claude.com/claude-code) for agentic development —
-planning changes, writing and reviewing code, and iterating against real Fortinet APIs
-— and [MCP](https://modelcontextprotocol.io) to connect Claude directly to those APIs
-and to FortiManager/FortiAnalyzer data. 4tAnalyst and 4tHealth+ go a step further and
-use an LLM at runtime, via MCP, to review and draft firewall rule changes before a
-human ever sees them.
-
-This is also a proving ground for going deeper with Anthropic's tools and, over time,
-for pursuing Anthropic certifications as they become available.
-
-## The Fortinet suite
+## About the suite
 
 | | |
 |---|---|
@@ -74,18 +57,14 @@ for pursuing Anthropic certifications as they become available.
 All four run independently — 4tHealth+ is a newer, more capable sibling, not a replacement
 for the other two.
 
-<br/>
+## Stack notes
 
-## About the builder
-
-Gatehouse Labs is built and maintained by Alan Wodarski, a Cyber Security Leader exploring
-what AI-assisted development can do across the security and network lifecycle —
-architecture, engineering, and operations.
-
-[LinkedIn](https://www.linkedin.com/in/alan-wodarski/)
+Built around the Fortinet FortiManager / FortiAnalyzer API, with 4tAnalyst and 4tHealth+
+using an LLM via MCP to review and draft rule changes before they ever reach a human
+reviewer.
 
 <br/>
 
 <div align="center">
-<sub>A personal portfolio project — not affiliated with or endorsed by Fortinet or Anthropic.</sub>
+<sub>This is a personal portfolio project — not affiliated with or endorsed by Fortinet.</sub>
 </div>
