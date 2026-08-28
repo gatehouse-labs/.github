@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/logos/gatecrest-labs-logo.svg" width="280" alt="Gatecrest Labs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos/gatecrest-labs-logo-dark.svg">
+  <img src="assets/logos/gatecrest-labs-logo.svg" width="280" alt="Gatecrest Labs" />
+</picture>
 
 <sub>A portfolio of firewall-engineering tools built on Fortinet FortiManager / FortiAnalyzer</sub>
 
@@ -17,25 +20,37 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="assets/logos/4thealth-mark.svg" width="72" /><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4thealth-mark-dark.svg">
+  <img src="assets/logos/4thealth-mark.svg" width="72" alt="4tHealth" />
+</picture><br/>
 <b>4tHealth</b><br/>
 <sub>Fabric health dashboard</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth">View repo →</a>
 </td>
 <td align="center" width="25%">
-<img src="assets/logos/4tlog-mark.svg" width="72" /><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4tlog-mark-dark.svg">
+  <img src="assets/logos/4tlog-mark.svg" width="72" alt="4tLog" />
+</picture><br/>
 <b>4tLog</b><br/>
 <sub>Pulling log files from FortiAnalyzer</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4tLog">View repo →</a>
 </td>
 <td align="center" width="25%">
-<img src="assets/logos/4tanalyst-mark.svg" width="72" /><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4tanalyst-mark-dark.svg">
+  <img src="assets/logos/4tanalyst-mark.svg" width="72" alt="4tAnalyst" />
+</picture><br/>
 <b>4tAnalyst</b><br/>
 <sub>AI-assisted rule request review</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4tAnalyst">View repo →</a>
 </td>
 <td align="center" width="25%">
-<img src="assets/logos/4thealthplus-mark.svg" width="72" /><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4thealthplus-mark-dark.svg">
+  <img src="assets/logos/4thealthplus-mark.svg" width="72" alt="4tHealth+" />
+</picture><br/>
 <b>4tHealth+</b><br/>
 <sub>Health + policy hygiene + AI rule design</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth-plus">View repo →</a>
