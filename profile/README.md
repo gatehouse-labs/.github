@@ -19,7 +19,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <td align="center" valign="top" width="20%">
 <img src="assets/logos/4thealth-mark.svg" width="72" alt="4tHealth" /><br/>
 <b>4tHealth</b><br/>
-<sub>Fabric health dashboard</sub><br/><br/>
+<sub>Fabric health dashboard</sub><br/><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth">View repo →</a>
 </td>
 <td align="center" valign="top" width="20%">
@@ -43,7 +43,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <td align="center" valign="top" width="20%">
 <img src="assets/logos/4texecutive-mark.svg" width="72" alt="4tExecutive" /><br/>
 <b>4tExecutive</b><br/>
-<sub>Executive rollup dashboard</sub><br/><br/>
+<sub>Executive rollup dashboard</sub><br/><br/><br/>
 Coming soon
 </td>
 </tr>
