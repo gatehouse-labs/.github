@@ -19,7 +19,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4thealth-mark-dark.svg">
   <img src="assets/logos/4thealth-mark.svg" width="72" alt="4tHealth" />
@@ -28,7 +28,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <sub>Fabric health dashboard</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth">View repo →</a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4tlog-mark-dark.svg">
   <img src="assets/logos/4tlog-mark.svg" width="72" alt="4tLog" />
@@ -37,7 +37,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <sub>Pulling log files from FortiAnalyzer</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4tLog">View repo →</a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4tanalyst-mark-dark.svg">
   <img src="assets/logos/4tanalyst-mark.svg" width="72" alt="4tAnalyst" />
@@ -46,7 +46,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <sub>AI-assisted rule request review</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4tAnalyst">View repo →</a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4thealthplus-mark-dark.svg">
   <img src="assets/logos/4thealthplus-mark.svg" width="72" alt="4tHealth+" />
@@ -54,6 +54,15 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <b>4tHealth+</b><br/>
 <sub>Health + policy hygiene + AI rule design</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth-plus">View repo →</a>
+</td>
+<td align="center" width="20%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos/4texecutive-mark-dark.svg">
+  <img src="assets/logos/4texecutive-mark.svg" width="72" alt="4tExecutive" />
+</picture><br/>
+<b>4tExecutive</b><br/>
+<sub>Executive rollup dashboard</sub><br/><br/>
+Coming soon
 </td>
 </tr>
 </table>
@@ -68,9 +77,11 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 | **4tLog** | Pulls and browses log files from FortiAnalyzer (7.4.x and 7.6.x). |
 | **4tAnalyst** | AI assistant for reviewing Fortinet/FortiManager firewall change requests. |
 | **4tHealth+** | Read-only network operations dashboard for FortiGate/FortiManager — health monitoring, policy hygiene, CIS device audits, and change validation, with AI-assisted rule design added on top. |
+| **4tExecutive** | Read-only executive dashboard that rolls up metrics from the other tools into one view, without giving executives access to the operational tools themselves. |
 
-All four run independently — 4tHealth+ is a newer, more capable sibling, not a replacement
-for the other two.
+4tHealth+ is a newer, more capable sibling to 4tHealth and 4tLog, not a replacement for
+either. 4tExecutive sits a layer above all three, aggregating their data rather than
+duplicating it.
 
 ## Stack notes
 
