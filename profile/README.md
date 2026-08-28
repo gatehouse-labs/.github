@@ -16,31 +16,31 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 
 <table align="center">
 <tr>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
 <img src="assets/logos/4thealth-mark.svg" width="72" alt="4tHealth" /><br/>
 <b>4tHealth</b><br/>
 <sub>Fabric health dashboard</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth">View repo →</a>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
 <img src="assets/logos/4tlog-mark.svg" width="72" alt="4tLog" /><br/>
 <b>4tLog</b><br/>
 <sub>Pulling log files from FortiAnalyzer</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4tLog">View repo →</a>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
 <img src="assets/logos/4tanalyst-mark.svg" width="72" alt="4tAnalyst" /><br/>
 <b>4tAnalyst</b><br/>
 <sub>AI-assisted rule request review</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4tAnalyst">View repo →</a>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
 <img src="assets/logos/4thealthplus-mark.svg" width="72" alt="4tHealth+" /><br/>
 <b>4tHealth+</b><br/>
 <sub>Health + policy hygiene + AI rule design</sub><br/><br/>
 <a href="https://github.com/gatecrest-labs/4thealth-plus">View repo →</a>
 </td>
-<td align="center" width="20%">
+<td align="center" valign="top" width="20%">
 <img src="assets/logos/4texecutive-mark.svg" width="72" alt="4tExecutive" /><br/>
 <b>4tExecutive</b><br/>
 <sub>Executive rollup dashboard</sub><br/><br/>
