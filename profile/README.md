@@ -44,7 +44,7 @@ AI-driven rule review and design, all working against FortiManager/FortiAnalyzer
 <img src="assets/logos/4texecutive-mark.svg" width="72" alt="4tExecutive" /><br/>
 <b>4tExecutive</b><br/>
 <sub>Executive rollup dashboard</sub><br/><br/><br/>
-Coming soon
+<a href="https://github.com/gatecrest-labs/4tExecutive">View repo →</a>
 </td>
 </tr>
 </table>
